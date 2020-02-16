@@ -1,0 +1,168 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.wrapper {
+	    max-width: 100% !important;
+	    height: auto;
+	    margin: 0 auto;
+	}
+	.b-l {
+	    border-left: none;
+	    margin-left: 0;
+	}
+	.bl-content{
+		margin-left: 0;
+	}
+	.c-name {
+		font-size: 40px;
+	    margin-top: 18px;
+	    margin-bottom: 20px;
+	    text-align: center;
+	}
+	.c-name {
+	    margin-top: 18px;
+	    margin-bottom: 20px;
+	}
+	.right {
+	    margin-left: 0;
+	}
+	.about-bar {
+	    margin-top: 15px;
+	}
+	.c-bar h1 {
+	    font-size: 22px;
+	}
+	.c-bar span {
+	    right: -11px;
+	    width: 48%;
+	}
+	.ex-bar span {
+	    width: 46%;
+	}
+	.con-bar span{
+        width: 58%;
+	}
+	.icon {
+	    font-size: 20px;
+	}
+	.icon-content {
+	    font-size: 16px;
+	}
+	.reference2{
+		margin-bottom: 30px;
+	}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.wrapper {
+		    max-width: 100% !important;
+		    height: auto;
+		    margin: 0 auto;
+		}
+    .custom-container{
+        	max-width: 100%;
+	}
+		.b-l {
+		    border-left: none;
+		    margin-left: 0;
+		}
+		.bl-content{
+			margin-left: 0;
+		}
+		.c-name {
+			font-size: 40px;
+		    margin-top: 18px;
+		    margin-bottom: 20px;
+		    text-align: center;
+		}
+		.c-name {
+		    margin-top: 18px;
+		    margin-bottom: 20px;
+		}
+		.right {
+		    margin-left: 0;
+		}
+		.about-bar {
+		    margin-top: 15px;
+		}
+		.about-bar span{
+			width: 72%;
+		}
+		.c-bar h1 {
+		    font-size: 25px;
+		}
+		.c-bar span {
+		    right: -11px;
+		    width: 69%;
+		}
+		.ex-bar span {
+		    width: 68%;
+		}
+		.con-bar span {
+		    width: 75%;
+		}
+		.icon {
+		    font-size: 20px;
+		}
+		.icon-content {
+		    font-size: 16px;
+		}
+		.reference2{
+			margin-bottom: 30px;
+		}
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+		.custom-container{
+	    	max-width: 100%;
+		}
+		.wrapper {
+		    max-width: 100% !important;
+		    height: auto;
+		    margin: 0 auto;
+		}
+		.common-bar h1 {
+		    font-size: 24px;
+		}
+		.circle img {
+		    margin: 10px 0;
+		}
+		.icon-content {
+		    font-size: 16px;
+		}
+		.about-bar {
+		    margin-top: 41px;
+		}
+		.c-bar h1 {
+		    font-size: 21px;
+		}
+		.about-p {
+		    margin: 0;
+		    font-size: 16px;
+		}
+		.ct-1{
+			font-size: 15px;
+		}
+		.ct-2{
+			font-size: 15px;
+		}
+		.ct-3{
+			font-size: 14px;
+		}
+		.ct-4{
+			font-size: 15px;
+		}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
+	
